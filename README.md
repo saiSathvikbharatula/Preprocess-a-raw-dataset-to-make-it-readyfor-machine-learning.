@@ -1,0 +1,2 @@
+# Preprocess-a-raw-dataset-to-make-it-readyfor-machine-learning.
+Data Preprocessing forMachine Learning&lt;/br> Handle missing data (e.g., filling with mean/median,dropping).&lt;/br> Encode categorical variables (e.g., using one-hot encoding or label encoding).&lt;/br> Normalize or standardize numerical features.&lt;/br> Split the dataset into training and testing sets.&lt;/br> Tools: Python, pandas, scikit-learn.&lt;/br>
